@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\bin\Debug\net5.0\aplicacao_transferencia_bancaria.exe
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\bin\Debug\net5.0\aplicacao_transferencia_bancaria.deps.json
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\bin\Debug\net5.0\aplicacao_transferencia_bancaria.runtimeconfig.json
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\bin\Debug\net5.0\aplicacao_transferencia_bancaria.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\bin\Debug\net5.0\aplicacao_transferencia_bancaria.dll
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\bin\Debug\net5.0\ref\aplicacao_transferencia_bancaria.dll
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\bin\Debug\net5.0\aplicacao_transferencia_bancaria.pdb
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\obj\Debug\net5.0\aplicacao_transferencia_bancaria.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\obj\Debug\net5.0\aplicacao_transferencia_bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\obj\Debug\net5.0\aplicacao_transferencia_bancaria.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\obj\Debug\net5.0\aplicacao_transferencia_bancaria.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\obj\Debug\net5.0\aplicacao_transferencia_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\obj\Debug\net5.0\aplicacao_transferencia_bancaria.dll
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\obj\Debug\net5.0\ref\aplicacao_transferencia_bancaria.dll
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\obj\Debug\net5.0\aplicacao_transferencia_bancaria.pdb
+C:\Users\Usuario\Desktop\DIO\Execicios\aplicacao_transferencia_bancaria\obj\Debug\net5.0\aplicacao_transferencia_bancaria.genruntimeconfig.cache
